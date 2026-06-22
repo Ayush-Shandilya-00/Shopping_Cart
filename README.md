@@ -12,5 +12,5 @@ A simple terminal-based shopping cart application built using Python. This proje
 1. Open your terminal in the project folder.
 2. Run the command:
    ```bash
-   python main.py
+   python Shopping_Cart.py
    ```
